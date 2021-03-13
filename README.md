@@ -1,4 +1,5 @@
-I'm Hassan Noure, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
+I'm Hassan Noure, 
+I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem.
 
 🔭 I’m currently working on JavaScript apps/systems
 🌱 I’m currently learning NestJS,DevOps and of course JS improvements
